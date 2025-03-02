@@ -104,7 +104,6 @@ body {
 
 .container:hover{
     box-shadow: 0px 0px 30px 15px red;
-    scale: 1.05;
 }
 
 
