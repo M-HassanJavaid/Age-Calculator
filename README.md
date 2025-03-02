@@ -31,7 +31,6 @@
 # Clone this repository
 git clone https://github.com/M-HassanJavaid/Web-Development-Practice.git
 
-# Open index.html in your browser and enjoy!
 ```
 
 ## 🌟 Contribute  
